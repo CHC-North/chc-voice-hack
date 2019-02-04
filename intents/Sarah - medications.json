@@ -1,0 +1,33 @@
+{
+  "id": "93532d52-d0ec-480e-973e-6139f1ab43e7",
+  "parentId": "da190b9b-a897-47ef-9a7e-ba55643f7a88",
+  "rootParentId": "da190b9b-a897-47ef-9a7e-ba55643f7a88",
+  "name": "Sarah - medications",
+  "auto": true,
+  "contexts": [
+    "Sarah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Sarah.Sarah-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "She is currently taking Gederel 20 and 150"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549027405,
+  "fallbackIntent": false,
+  "events": []
+}

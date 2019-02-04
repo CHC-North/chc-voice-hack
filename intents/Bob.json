@@ -1,0 +1,34 @@
+{
+  "id": "96ac09e2-8c13-4746-9fea-b7c4abeca533",
+  "name": "Bob",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Bob-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your next patient is Bob. He is 25 years old, and has come to talk about a rash."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549028200,
+  "fallbackIntent": false,
+  "events": []
+}

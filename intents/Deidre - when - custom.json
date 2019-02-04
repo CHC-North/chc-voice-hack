@@ -1,0 +1,33 @@
+{
+  "id": "8eec55fe-0b18-4b55-8e7e-d4dc78e7e0e6",
+  "parentId": "063e1388-a19c-45c3-9195-fe7c7d92d303",
+  "rootParentId": "69ba3043-a345-4f3f-9b44-f828c778521e",
+  "name": "Deidre - when - custom",
+  "auto": true,
+  "contexts": [
+    "Deidre-when-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Deidre.Deidre-custom.Deidre-when-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Her iron was below normal. Nothing else came up."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549026774,
+  "fallbackIntent": false,
+  "events": []
+}

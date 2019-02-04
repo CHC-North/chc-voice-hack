@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6904fcab-4117-461c-99d1-d9d4ab96bb4f",
+    "data": [
+      {
+        "text": "What was she last here for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549026264
+  },
+  {
+    "id": "3ffc1e2c-3727-4d1b-b7b2-7b4388c9742c",
+    "data": [
+      {
+        "text": "When did he last visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549026264
+  },
+  {
+    "id": "f19842e3-3632-4a12-9f6b-13e1d251f9b5",
+    "data": [
+      {
+        "text": "When was his last here?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549026264
+  }
+]

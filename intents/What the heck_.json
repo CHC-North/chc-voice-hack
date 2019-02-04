@@ -1,0 +1,31 @@
+{
+  "id": "40b562ed-e19f-4594-9c2a-7ef1a48febaf",
+  "name": "What the heck?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sorry I didn\u0027t undertand that. Things you could try are \"who\u0027s my next patient\" or \"tell me about my next appointment\"",
+            "I don\u0027t know how to do that. Maybe try \"Who\u0027s next?\""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549027606,
+  "fallbackIntent": true,
+  "events": []
+}

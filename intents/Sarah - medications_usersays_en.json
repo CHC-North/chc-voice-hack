@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a51c76b8-11ea-4965-8f90-e2bd237b06a3",
+    "data": [
+      {
+        "text": "What are they?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549027405
+  },
+  {
+    "id": "96bd6670-0aed-4e1b-b55f-1dc1f0680dfc",
+    "data": [
+      {
+        "text": "What\u0027s she taking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549027405
+  },
+  {
+    "id": "66c8ac66-aafb-430d-9c31-8f18f0e95c37",
+    "data": [
+      {
+        "text": "What\u0027s she currently on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549027405
+  },
+  {
+    "id": "fb8189bf-6587-4b43-b3b8-8dfae7b3000a",
+    "data": [
+      {
+        "text": "What medications is she on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549027405
+  }
+]

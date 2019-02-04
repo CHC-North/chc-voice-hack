@@ -1,0 +1,37 @@
+{
+  "id": "399edeb3-a616-491c-86cf-1808185ea6c2",
+  "name": "Show them in",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "@person",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2b28d2f0-0fba-4bfa-8487-8df89df18c75",
+          "dataType": "@Person",
+          "name": "Person",
+          "value": "$Person",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great, I\u0027ll let $Person know"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549027074,
+  "fallbackIntent": false,
+  "events": []
+}

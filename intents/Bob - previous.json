@@ -1,0 +1,33 @@
+{
+  "id": "3c7841e7-f742-4aeb-969f-9687cf926950",
+  "parentId": "96ac09e2-8c13-4746-9fea-b7c4abeca533",
+  "rootParentId": "96ac09e2-8c13-4746-9fea-b7c4abeca533",
+  "name": "Bob - previous",
+  "auto": true,
+  "contexts": [
+    "Bob-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Bob.Bob-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "He last came 12 months ago"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549026264,
+  "fallbackIntent": false,
+  "events": []
+}

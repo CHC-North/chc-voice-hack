@@ -1,0 +1,47 @@
+{
+  "id": "063e1388-a19c-45c3-9195-fe7c7d92d303",
+  "parentId": "69ba3043-a345-4f3f-9b44-f828c778521e",
+  "rootParentId": "69ba3043-a345-4f3f-9b44-f828c778521e",
+  "name": "Deidre - when",
+  "auto": true,
+  "contexts": [
+    "Deidre-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Deidre.Deidre-custom",
+      "affectedContexts": [
+        {
+          "name": "Deidre-when-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "40e5024b-d641-46b1-be05-a2fdd4accbbb",
+          "dataType": "@Person",
+          "name": "Person",
+          "value": "$Person",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "She came a week ago. Since then we have recieved some blood test results."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549028346,
+  "fallbackIntent": false,
+  "events": []
+}
